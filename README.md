@@ -18,7 +18,7 @@ To install required packages to run notebooks in this repository, first use term
 
     conda create --name waterdig 
     
-Activate this environment (note, on your PC you will use `conda activate` instead of `source activate`:
+Activate this environment (note, if you are running this on a personal computer instead of a server, you will use `conda activate` instead of `source activate`):
 
     source activate waterdig  
 
